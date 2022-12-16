@@ -12,7 +12,7 @@ Exemplo de como utilizar o microORM Dapper para acesso a dados com C#
 # Projeto
 
 Para exemplo utilizei uma camada de WebApi e uma como repositório. Para iniciar o projeto utilize o script dentro da pasta SQL para a criação da tabela e inserção de um exemplo no banco.
-Fique á vontade para alterar a arquitetura do projeto, pois utilizei da forma mais simples pois o foco é a utilização do Dapper.
+Fique á vontade para alterar a arquitetura do projeto, pois utilizei da forma mais simples porque o foco é a utilização do Dapper.
 
 # Post no Blog
 
